@@ -1,0 +1,71 @@
+unit testewkdjr.view.Pedido1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Data.DB, Vcl.Grids, Vcl.DBGrids,
+  Vcl.ExtCtrls, Vcl.Buttons, Vcl.StdCtrls, Datasnap.DBClient, Vcl.DBCtrls,
+  System.Generics.Collections, Data.DBXMySQL, Data.SqlExpr, FireDAC.Stan.Intf,
+  FireDAC.Stan.Option, FireDAC.Stan.Error, FireDAC.UI.Intf, FireDAC.Phys.Intf,
+  FireDAC.Stan.Def, FireDAC.Stan.Pool, FireDAC.Stan.Async, FireDAC.Phys,
+  FireDAC.VCLUI.Wait, FireDAC.Comp.Client, FireDAC.Phys.MySQL,
+  FireDAC.Phys.MySQLDef, FireDAC.Comp.UI;
+
+type
+  TfrmCadPedido = class(TForm)
+    Panel1: TPanel;
+    Label6: TLabel;
+    btnBuscaPedido: TSpeedButton;
+    GroupBox1: TGroupBox;
+    Label1: TLabel;
+    Label2: TLabel;
+    btnBuscaCliente: TSpeedButton;
+    edtCodCliente: TEdit;
+    edtNomeCliente: TEdit;
+    GroupBox2: TGroupBox;
+    Label3: TLabel;
+    btnBuscaProduto: TSpeedButton;
+    Label4: TLabel;
+    Label5: TLabel;
+    btnAddProduto: TSpeedButton;
+    edtCodProduto: TEdit;
+    edtQtde: TEdit;
+    edtValorUnit: TEdit;
+    edtNumPedido: TEdit;
+    Panel2: TPanel;
+    btnGravarPedido: TSpeedButton;
+    lblValorTotalPedido: TLabel;
+    DBText1: TDBText;
+    btnNovoPedido: TSpeedButton;
+    btnExcluir: TSpeedButton;
+    btnCancelar: TSpeedButton;
+    dbgrdProdutos: TDBGrid;
+    cdsProdutos: TClientDataSet;
+    cdsProdutosTempId: TIntegerField;
+    cdsProdutosProdutoId: TIntegerField;
+    cdsProdutosQuantidade: TIntegerField;
+    cdsProdutosValorUnitario: TFloatField;
+    cdsProdutosValorTotal: TFloatField;
+    cdsProdutosDescricao: TStringField;
+    cdsProdutosValorTotalPedido: TAggregateField;
+    dsProdutos: TDataSource;
+    Panel4: TPanel;
+    DBText3: TDBText;
+    SpeedButton8: TSpeedButton;
+    Label7: TLabel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmCadPedido: TfrmCadPedido;
+
+implementation
+
+{$R *.dfm}
+
+
+end.

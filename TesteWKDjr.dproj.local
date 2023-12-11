@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/12/11 00:25:47.324,=C:\Users\Dan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/11 00:27:06.054,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pedido.dfm=C:\Users\Dan\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/12/11 00:27:06.054,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pedido.pas=C:\Users\Dan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/11 00:27:17.855,C:\source\TestePraticoWKDjr\TesteWKDjr.dproj=C:\Users\Dan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/12/11 02:56:43.574,=C:\source\TestePraticoWKDjr\View\uSearch.pas</Transaction>
+    <Transaction>2023/12/11 02:57:21.371,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Search.pas=C:\source\TestePraticoWKDjr\View\uSearch.pas</Transaction>
+    <Transaction>2023/12/11 02:57:21.371,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Search.dfm=C:\source\TestePraticoWKDjr\View\uSearch.dfm</Transaction>
+    <Transaction>2023/12/11 03:01:54.245,=C:\source\TestePraticoWKDjr\Model\uClienteClass.pas</Transaction>
+    <Transaction>2023/12/11 03:01:54.271,=C:\source\TestePraticoWKDjr\Model\uDAOClass.pas</Transaction>
+    <Transaction>2023/12/11 03:01:54.296,=C:\source\TestePraticoWKDjr\Model\uDetalhePedidoClass.pas</Transaction>
+    <Transaction>2023/12/11 03:01:54.321,=C:\source\TestePraticoWKDjr\Model\uPedidoClass.pas</Transaction>
+    <Transaction>2023/12/11 03:01:54.344,=C:\source\TestePraticoWKDjr\Model\uProdutoClass.pas</Transaction>
+    <Transaction>2023/12/11 03:02:04.550,=C:\source\TestePraticoWKDjr\Controllers\uClienteController.pas</Transaction>
+    <Transaction>2023/12/11 03:02:04.576,=C:\source\TestePraticoWKDjr\Controllers\uPedidoController.pas</Transaction>
+    <Transaction>2023/12/11 03:02:04.601,=C:\source\TestePraticoWKDjr\Controllers\uProdutoController.pas</Transaction>
+    <Transaction>2023/12/11 03:04:14.050,C:\source\TestePraticoWKDjr\Model\testewkdjr.model.Produto.pas=C:\source\TestePraticoWKDjr\Model\uProdutoClass.pas</Transaction>
+    <Transaction>2023/12/11 03:04:32.329,C:\source\TestePraticoWKDjr\Model\testewkdjr.model.Pedido.pas=C:\source\TestePraticoWKDjr\Model\uPedidoClass.pas</Transaction>
+    <Transaction>2023/12/11 03:04:58.935,C:\source\TestePraticoWKDjr\Model\testewkdjr.model.DetalhePedido.pas=C:\source\TestePraticoWKDjr\Model\uDetalhePedidoClass.pas</Transaction>
+    <Transaction>2023/12/11 03:05:35.418,C:\source\TestePraticoWKDjr\Model\testewkdjr.model.DM.pas=C:\source\TestePraticoWKDjr\Model\uDAOClass.pas</Transaction>
+    <Transaction>2023/12/11 03:05:47.467,C:\source\TestePraticoWKDjr\Model\testewkdjr.model.Cliente.pas=C:\source\TestePraticoWKDjr\Model\uClienteClass.pas</Transaction>
+    <Transaction>2023/12/11 03:13:12.129,C:\source\TestePraticoWKDjr\Controllers\testewkdjr.controller.Produto.pas=C:\source\TestePraticoWKDjr\Controllers\uProdutoController.pas</Transaction>
+    <Transaction>2023/12/11 03:13:28.268,C:\source\TestePraticoWKDjr\Controllers\testewkdjr.controller.Pedido.pas=C:\source\TestePraticoWKDjr\Controllers\uPedidoController.pas</Transaction>
+    <Transaction>2023/12/11 03:13:45.584,C:\source\TestePraticoWKDjr\Controllers\testewkdjr.controller.Cliente.pas=C:\source\TestePraticoWKDjr\Controllers\uClienteController.pas</Transaction>
+    <Transaction>2023/12/11 09:10:43.973,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pesquisa.dfm=C:\source\TestePraticoWKDjr\View\testewkdjr.view.Search.dfm</Transaction>
+    <Transaction>2023/12/11 09:10:43.973,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pesquisa.pas=C:\source\TestePraticoWKDjr\View\testewkdjr.view.Search.pas</Transaction>
+    <Transaction>2023/12/11 09:52:39.939,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pedido1.dfm=C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pedido.dfm</Transaction>
+    <Transaction>2023/12/11 09:52:39.939,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pedido1.pas=C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pedido.pas</Transaction>
+    <Transaction>2023/12/11 09:55:01.267,=C:\source\TestePraticoWKDjr\View\uPedidoVenda.pas</Transaction>
+    <Transaction>2023/12/11 09:55:26.373,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pedido.pas=C:\source\TestePraticoWKDjr\View\uPedidoVenda.pas</Transaction>
+    <Transaction>2023/12/11 09:55:26.373,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pedido.dfm=C:\source\TestePraticoWKDjr\View\uPedidoVenda.dfm</Transaction>
+    <Transaction>2023/12/11 11:03:39.531,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pesquisa.pas=</Transaction>
+    <Transaction>2023/12/11 11:26:41.127,C:\source\TestePraticoWKDjr\View\testewkdjr.view.Pedido1.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
